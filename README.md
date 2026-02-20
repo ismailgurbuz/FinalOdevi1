@@ -19,4 +19,4 @@ Bu proje, bellek kısıtlı mikrodenetleyiciler (Arduino, ESP32) üzerinde TinyM
 3. `main.c` dosyasını derleyin ve çalıştırın.
 
 ## Agentic Kodlama Süreci
-Bu projenin mimari tasarımı ve kuantizasyon algoritmalarının matematiksel temelleri [Dil Modeli İsmi] kullanılarak Agentic yönlendirme yöntemleriyle tasarlanmıştır.
+Bu projenin mimari tasarımı ve kuantizasyon algoritmalarının matematiksel temelleri [Gemini 3] kullanılarak Agentic yönlendirme yöntemleriyle tasarlanmıştır.
